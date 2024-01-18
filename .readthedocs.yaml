@@ -8,7 +8,7 @@ formats: all
 
 # Set the version of Python and other tools you might need
 build:
-  os: osx
+  os: macOS-14.2.1
   tools:
     python: "3.9"
 
